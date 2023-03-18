@@ -10,6 +10,48 @@
 | spacedock  | (https://spacedock.info/mod/3249)                                 |
 | ckan       | SimpleHyperdrive                                                  |
 
+## Version 2.6.99.1-prerelease - `<Dziękuję Monniasza>` edition
+
+* Released
+  * 17 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 2.6.99.1
+
+### Localization 2.6.99.0
+
+* Add
+  * Polish (Polski)
+    * <pl.cfg> v1.0.0.0
+    * Courtesy of (Dziękuję) [Monniasza](https://github.com/Monniasza)
+* Update
+  * English
+    * <en-us.cfg> v1.0.1.0
+    * <pl.cfg> v1.0.1.0
+    * correct #ABBV --> #HYPE
+* closes #42 - Polish (Polski) <pl.cfg>
+* updates #29 - English <en-us.cfg>
+* updates #28 - Localization - Master
+
+### docs/ 2.6.99.0
+
+* Update
+  * [Attributions.md]
+  * [Localizations.md]
+  * [readme.md] v2.6.99.1
+
+### Status 2.6.99.1
+
+* Issues
+
+  * closes #70 - Simple Hyperdrive! (HYPE) 2.6.99.1-prerelease `<Dziękuję Monniasza>` edition
+  * closes #71 - 2.6.99.1 Additional Tasks
+  * updates #28 - Localization - Master
+  * updates #72 - [BUG] missing Hypercrystal conversion in ISRU's
+
+---
+
 ## Version 2.6.99.0-adoption - `<Thank you Exodus_Solis and Monniasza>` edition
 
 * Released
