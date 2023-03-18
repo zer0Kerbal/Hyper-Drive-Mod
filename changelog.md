@@ -7,6 +7,32 @@
 | github     | (https://github.com/zer0Kerbal/SimpleHyperdrive)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleHyperdrive) |
 
+## Version 2.6.99.2-prerelease - `<Dziękuję Monniasza>` edition
+
+* Released
+  * 24 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 2.6.99.2
+
+
+### Config 2.6.99.2
+
+* Update
+  * [ghostParts.cfg] v1.0.1.0
+    * now removes tags
+    * removed log messages
+* Correct typo
+  * [SimpleHyperdrive.cfg] v1.0.1.0
+
+### Status 2.6.99.1
+
+* Issues
+
+
+---
+
 ## Version 2.6.99.1-prerelease - `<Dziękuję Monniasza>` edition
 
 * Released
