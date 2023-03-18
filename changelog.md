@@ -16,6 +16,8 @@
 
 ### Summary 2.6.99.2
 
+* fix typo in SimpleHyperdrive.cfg
+* add features to improve ghostParts.cfg
 
 ### Config 2.6.99.2
 
@@ -29,7 +31,9 @@
 ### Status 2.6.99.1
 
 * Issues
-
+  * closes #77 - Simple Hyperdrive! (HYPE) 2.6.99.2-prerelease `<Thank you Exodus_Solis and Monniasza>` edition
+  * closes #78 - 2.6.99.2 Additional Tasks
+  * updates #72 - [BUG] missing Hypercrystal conversion in ISRU's
 
 ---
 
