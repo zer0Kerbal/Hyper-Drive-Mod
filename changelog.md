@@ -1,14 +1,11 @@
 # Changelog  
   
-| modName    | Simple Hyperdrive! (HYPE)                                         |
-| ---------- | ----------------------------------------------------------------- |
-| license    | GPL-2.0                                                           |
-| author     | Exodus_Solis, Monniasza and zer0Kerbal                            |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/212069-*/) |
-| github     | (https://github.com/zer0Kerbal/SimpleHyperdrive)                  |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleHyperdrive)     |
-| spacedock  | (https://spacedock.info/mod/3249)                                 |
-| ckan       | SimpleHyperdrive                                                  |
+| modName    | Simple Hyperdrive! (HYPE)                                     |
+| ---------- | ------------------------------------------------------------- |
+| license    | GPL-2.0                                                       |
+| author     | Exodus_Solis, Monniasza and zer0Kerbal                        |
+| github     | (https://github.com/zer0Kerbal/SimpleHyperdrive)              |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleHyperdrive) |
 
 ## Version 2.6.99.1-prerelease - `<Dziękuję Monniasza>` edition
 
