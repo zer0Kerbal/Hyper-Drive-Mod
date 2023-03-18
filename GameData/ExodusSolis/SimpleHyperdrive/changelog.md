@@ -16,6 +16,10 @@
 
 ### Summary 2.6.99.1
 
+* Add Polish (Polski) translation
+  * Courtesy of (Dziękuję) [Monniasza](https://github.com/Monniasza)
+* correct a typo in en-us.cfg
+
 ### Localization 2.6.99.0
 
 * Add
