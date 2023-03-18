@@ -55,6 +55,9 @@ updated: 06 Feb 2023 -->
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/PO.png " alt="Polski" style="zoom:100%;" /> Polish (Polski)  - Dziękuję <a href="https://github.com/Monniasza"> Monniasza</a></li>
+
+
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
