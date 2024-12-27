@@ -1,0 +1,17 @@
+//this better work -- hyperdrive whitelist for restock
+//very lossy and prob loads unneccassary things but whatever
+Squad/Parts/Command/
+Squad/Parts/Engine/ionEngine/
+Squad/Parts/Engine/rapierEngine/
+Squad/Parts/FuelTank/FoilTanks/ToroidTank/
+Squad/Parts/FuelTank/fuelTankOscarB/
+Squad/Parts/Resources/MiniISRU/MiniISRU
+Squad/Parts/Resources/ISRU/
+Squad/Parts/Resources/MiniDrill/
+Squad/Parts/Utility/rcsBlockRV-105_v2/
+Squad/Parts/FuelTank/FoilTanks/
+Squad/Parts/Engine/jetEngines/
+Squad/Parts/Resources/ISRU/
+Squad/Parts/FuelTank/fuelTankOscarB/
+Squad/Parts/Resources/MiniDrill/
+Squad/Parts/Resources/RadialDrill/TriBitDrill
