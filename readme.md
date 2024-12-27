@@ -1,5 +1,4 @@
 <!-- readme.md v2.6.99.1
-#Restock whitelist file fixes, 12/27/24
 Simple Hyperdrive! (HYPE)
 created: 17 Feb 2023
 updated: 17 Mar 2023
