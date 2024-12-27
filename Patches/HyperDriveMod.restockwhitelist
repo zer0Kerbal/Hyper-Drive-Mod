@@ -1,0 +1,13 @@
+//fix restock not loading parts for hyperdrive mod. Whitelisting parts hype! uses
+//very lossy and prob loads unneccassary things but it works
+Squad/Parts/Command/
+Squad/Parts/Engine/ionEngine/
+Squad/Parts/Engine/rapierEngine/
+Squad/Parts/FuelTank/fuelTankOscarB/
+Squad/Parts/Resources/ISRU/
+Squad/Parts/Resources/MiniDrill/
+Squad/Parts/Utility/rcsBlockRV-105_v2/
+Squad/Parts/FuelTank/FoilTanks/
+Squad/Parts/Engine/jetEngines/
+Squad/Parts/Resources/ISRU/
+Squad/Parts/Resources/MiniDrill/
