@@ -1,0 +1,13 @@
+//Restock compatibility fixes
+//very lossy and prob loads uneccessary things but it works | Fixed(again)
+Squad/Parts/Resources/MiniDrill/
+Squad/Parts/Resources/RadialDrill/
+Squad/Parts/Engine/jetEngines/
+Squad/Parts/Engine/ionEngine
+Squad/Parts/Engine/rapierEngine/
+Squad/Parts/Utility/rcsBlockRV-105_v2/
+Squad/Parts/Resources/MiniISRU/
+Squad/Parts/Resources/ISRU/
+Squad/Parts/Command/inlineAdvancedStabilizer/
+Squad/Parts/FuelTank/FoilTanks/
+Squad/Parts/FuelTank/fuelTankOscarB/
